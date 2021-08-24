@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+- Music
+ - Everything but Reggaeton 
+- Movies
+ - Everything but Horror
+- Books
+ - Everything but Romance Novels   
