@@ -1,6 +1,6 @@
 - Music
- - Everything but Reggaeton 
+  - Everything but Reggaeton 
 - Movies
- - Everything but Horror
+  - Everything but Horror
 - Books
- - Everything but Romance Novels   
+  - Everything but Romance Novels   
